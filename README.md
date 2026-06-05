@@ -1,8 +1,8 @@
-# Cipher Payoff Atlas
+# Options Payoff Motion
 
 A fullscreen ASCII options payoff atlas built with Next.js and a custom canvas renderer. The page scrolls through ten payoff structures, drawing each curve as red ASCII math over an off-white or black field.
 
-Live site: https://cipher-payoff-atlas.vercel.app
+Live site: https://options-payoff-motion.vercel.app
 
 ## What It Shows
 

@@ -2,7 +2,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Cipher Payoff Atlas',
+  title: 'Options Payoff Motion',
   description: 'A fullscreen ASCII options payoff atlas rendered in red, off-white, and black.',
 };
 
