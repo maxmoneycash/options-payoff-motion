@@ -2,7 +2,7 @@
 
 A fullscreen ASCII options payoff atlas built with Next.js and a custom canvas renderer. The page scrolls through ten payoff structures, drawing each curve as red ASCII math over an off-white or black field.
 
-Live site: _add the Vercel URL after deployment_
+Live site: https://cipher-payoff-atlas.vercel.app
 
 ## What It Shows
 
